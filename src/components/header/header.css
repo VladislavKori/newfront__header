@@ -40,6 +40,10 @@
     align-items: center;
     list-style: none;
 }
+.header__user {
+    display: flex;
+    align-items: center;
+}
 .header__user-info {
     display: flex;
     align-items: center;
